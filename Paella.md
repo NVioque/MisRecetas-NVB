@@ -13,3 +13,5 @@
 # 6 g. de pimentón
 # Sal al gusto
 # 7/2 l. de agua.
+## Instrucciones
+# Se pone la paella al fuego con el aceite y, cuando esté muy caliente, se añade el pollo y el conejo que se ha troceado previamente. Se sofríe la carne hasta que quede ligeramente dorada.
